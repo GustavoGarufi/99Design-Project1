@@ -1,16 +1,16 @@
-~~# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)~~
+~~[Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)~~
 # [Free-CSS] (www.free-css.com) - [Minimal] (http://www.free-css.com/free-css-templates/page200/minimal)
 
-~~[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.~~
+~~[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for~~ ~~[Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.~~
 
 We are now using Minimal on this build. A theme made by [Carlos Alvarez](http://blacktie.co/), A full time theme crafter based in Madrid, Spain. I love designing beautiful, clean and user-friendly interfaces for websites.
 
-~~## Getting Started
+~~## Getting Started~~
 
-Several options are available to get started quickly:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* Fork the repo
+~~Several options are available to get started quickly:~~
+~~* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)~~
+~~* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`~~
+~~* Fork the repo~~
 
 ## Developing Using Source Files
 
@@ -24,7 +24,7 @@ If you need to update the plugins included with this template, simply run the fo
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).~~
+~~Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).~~
 
 ## Creator
 
